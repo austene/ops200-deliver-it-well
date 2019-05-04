@@ -1,7 +1,7 @@
 # ops200-deliver-it-well
 
 ## Purpose of Program
-creates a simple webpage to test continuous integration with CircleCI
+Creates a simple webpage to test continuous integration with CircleCI
 
 ## Setup
 
